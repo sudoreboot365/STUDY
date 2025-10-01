@@ -1,0 +1,21 @@
+# OS-generated junk
+.DS_Store
+Thumbs.db
+
+# Obsidian internal/cache stuff (ignore these for clean sync)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/graph.json
+.obsidian/backups
+.obsidian/plugins/*/data.json
+
+# Your requested folders
+.trash/
+.obsidian/
+Old/
+attachments/
+
+# Logs and temp files
+*.log
+*.tmp
