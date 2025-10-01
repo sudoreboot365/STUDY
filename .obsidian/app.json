@@ -1,0 +1,14 @@
+{
+  "readableLineLength": false,
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "showInlineTitle": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute"
+}

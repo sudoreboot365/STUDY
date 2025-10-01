@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ffffff",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "showViewHeader": false,
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "showRibbon": true
+}
